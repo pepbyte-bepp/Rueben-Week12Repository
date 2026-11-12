@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "course": "CS110",
+  "assignment": "independence-12ab",
+  "state": {
+    "me": {
+      "id": "PERSON-A0E8D1A701651832BB3E6E49",
+      "name": "Ruby East",
+      "verificationCode": "VIEW-C023F2A3B3974AFE6E25658C"
+    },
+    "draft": {
+      "currentPage": 46,
+      "prep": {
+        "repo": "https://github.com/pepbyte-bepp/Rueben-Week12Repository"
+      }
+    },
+    "receipts": [],
+    "clocks": [
+      {
+        "code": "TIME-18FBC350EBB00BB6D40094B8",
+        "name": "Ruby East",
+        "day": "B",
+        "arrival": "2026-11-12T20:46:03.139Z",
+        "start": "2026-11-12T20:45:00Z",
+        "calculated": 0,
+        "deduction": 0,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
+      },
+      {
+        "code": "TIME-A42AD47FD2A6E7FD8094967B",
+        "name": "Ruby East",
+        "day": "A",
+        "arrival": "2026-11-12T22:03:15.757Z",
+        "start": "2026-11-10T20:45:00Z",
+        "calculated": 2955,
+        "deduction": 20,
+        "status": "Calculated · awaiting instructor review",
+        "recovery": {
+          "status": "Not requested",
+          "requestedAt": null,
+          "restoredPoints": 0,
+          "approvedAt": null
+        }
+      }
+    ],
+    "team": null,
+    "invites": []
+  },
+  "draft": {
+    "currentPage": 46,
+    "prep": {
+      "repo": "https://github.com/pepbyte-bepp/Rueben-Week12Repository"
+    }
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 46,
+    "timerMinutes": 10
+  }
+}
